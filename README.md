@@ -11,7 +11,7 @@ Requirements
 Installation
 ------------
 
-1. Upload the koken-rdio-xxxxxx folder to your Koken installation's storage/plugins directory.
+1. Download the [ZIP](https://github.com/koken/koken-rdio/archive/master.zip) then upload the koken-rdio-master folder to your Koken installation's storage/plugins directory.
 
 2. Sign in to Koken, then visit the Settings > Plugins page to activate the plugin.
 
